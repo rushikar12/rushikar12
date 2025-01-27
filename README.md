@@ -1,21 +1,21 @@
 ## 🌟 About Me
 Hi, I'm **Rushika** 👋  
-I'm currently pursuing an MSc in **Data Science** and I'm passionate about exploring the world of **AI**, **Machine Learning**, and **Data Analytics**. I'm focused on applying cutting-edge techniques to real-world problems.
+I am a **Data Science** enthusiast currently pursuing my MSc and excited to begin my journey in the field of **Artificial Intelligence** and **Machine Learning**. I'm passionate about transforming data into actionable insights and solving real-world problems.
 
 ###  What I Do
-- **Exploring AI**: Working on innovative **Generative AI** and **AI-powered applications**.
-- **Data Enthusiast**: Enthusiastic about transforming raw data into actionable insights.
-- **Learner**: Continuously building my skills in **VS Code**, **GitHub**, and more.
+- **Learning and Growing**: Exploring the world of **AI**, **Machine Learning**, and **Data Analytics** through hands-on projects.
+- **Data Problem Solver**: Applying programming and statistical techniques to solve data-driven problems.
+- **Curious Mind**: Continuously building my skills in tools like **VS Code**, **GitHub**.
 
-### 💼 Current Projects
-- **AI-Powered Retail Query Engine**: Building a solution to translate natural language into SQL for dynamic retail queries.
+### 💼 Projects
+- **AI-Powered Retail Query Engine**: A project aimed at translating natural language queries into SQL for retail data analysis.
 
-- **E-commerce Data Analysis**: Analyzing e-commerce data using advanced machine learning and data visualization techniques.
+- **E-commerce Data Analysis**: Conducting exploratory data analysis (EDA) and building predictive models on e-commerce data to improve business insights.
 
 ### 🛠️ Skills
 - **Programming:** Python, R, SQL
-- **Tools:** Power BI, Tableau, VS Code
-- **Topics:** Sentiment Analysis, Recommender Systems, AI-powered Applications, Data Visualization.
+- **Tools:** VS Code, Power BI, Tableau
+- **Techniques:** Sentiment Analysis, Data Visualization, Data Cleaning, Feature Engineering
 
-### 🌐 Connect
+### 🌐 Let's Connect
 - 💼 LinkedIn: https://www.linkedin.com/in/rushika-r-730984220
