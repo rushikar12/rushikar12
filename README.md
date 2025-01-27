@@ -2,7 +2,7 @@
 Hi, I'm **Rushika** 👋  
 I'm currently pursuing an MSc in **Data Science** and I'm passionate about exploring the world of **AI**, **Machine Learning**, and **Data Analytics**. I'm focused on applying cutting-edge techniques to real-world problems.
 
-### 🚀 What I Do
+###  What I Do
 - **Exploring AI**: Working on innovative **Generative AI** and **AI-powered applications**.
 - **Data Enthusiast**: Enthusiastic about transforming raw data into actionable insights.
 - **Learner**: Continuously building my skills in **VS Code**, **GitHub**, and more.
